@@ -1,0 +1,7 @@
+{
+  "liveries": [
+    {
+      "car": "Brick", "name": "JAF Road Service Car", "texture": "Brick/Brick_JAFRoadService.png", "icon": "Icon_JAF.png"
+    }
+  ]
+}
